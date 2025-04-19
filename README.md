@@ -13,4 +13,5 @@ Valori XYZ primite: X=3; Y=7; Z=3.
 
 ## Funcții 
 SIP => SayAlpha(), SayDigits(), SayNumber(), SayPhonetic(), SayUnixTime()
+
 IAX2 => Dictate(), Monitor(), Record()
